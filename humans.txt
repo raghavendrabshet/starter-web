@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Raghavendra Shet -- <twitter>
+    Raghavendra Shet
+    raghavendrabshet@gmail.com
+    NOC Engineer
 
 # THANKS
 
